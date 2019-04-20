@@ -23,4 +23,4 @@ appData.expenses.quest3 = quest4;
 alert  (appData.budget / 30);    
 
 // console.log (costs);
-// console.log (howMuch);3
+// console.log (howMuch);
